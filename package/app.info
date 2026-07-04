@@ -1,0 +1,4 @@
+name = Voice AI
+entry = main.lua
+icon = main.png
+description = Local voice assistant with XiaoZhi STT and DeepSeek

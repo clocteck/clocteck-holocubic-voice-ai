@@ -1,0 +1,21 @@
+# Local config and secrets
+package/config.json
+src/config.json
+*.local.json
+.env
+.env.*
+
+# Generated/proprietary font outputs
+package/font/msyh_cn_13.bin
+src/font/msyh_cn_13.bin
+
+# Dependency caches
+node_modules/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+

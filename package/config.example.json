@@ -1,0 +1,37 @@
+{
+  "xiaozhi": {
+    "app_dir": "/sd/apps/xiaozhi",
+    "websocket": {
+      "url": "",
+      "token": "",
+      "version": 3
+    },
+    "keep_connected": true,
+    "reconnect_ms": 5000
+  },
+  "deepseek": {
+    "base_url": "https://api.deepseek.com/v1",
+    "api_key": "",
+    "model": "deepseek-chat",
+    "timeout_ms": 35000,
+    "max_tokens": 512
+  },
+  "interface_docs": {
+    "enabled": true,
+    "path": "/sd/apps/holocubic-lua-claw/capabilities.json",
+    "max_bytes": 0
+  },
+  "audio": {
+    "rate": 12000,
+    "frame_ms": 60,
+    "mic_bits": 32,
+    "mic_pack": "b23",
+    "gain_shift": 2,
+    "poll_ms": 55
+  },
+  "system_prompt": "",
+  "max_record_ms": 10000,
+  "stt_timeout_ms": 12000,
+  "reply_limit": 100,
+  "use_gif": true
+}
