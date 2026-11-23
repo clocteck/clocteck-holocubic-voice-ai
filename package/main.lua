@@ -1,3 +1,4 @@
+-- [HoloCubic platform](https://clocteck.com/pages/holocubic) | [ClocTeck website](https://clocteck.com/)
 if _G.VOICE_AI_APP and _G.VOICE_AI_APP.stop then
   pcall(function() _G.VOICE_AI_APP.stop("reload") end)
 end

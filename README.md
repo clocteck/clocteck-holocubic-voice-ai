@@ -4,6 +4,8 @@ Voice AI 是给 clocteck-holocubic 小屏设备使用的本机语音助手 App�
 
 当前版本已经移除语音播报/TTS 逻辑，只保留屏幕显示和 `ui_code` 运行。
 
+设备资料：[HoloCubic 平台介绍](https://clocteck.com/pages/holocubic) · [ClocTeck 官网](https://clocteck.com/)
+
 ## 功能
 
 - 短按 `HOME` 录音，再短按停止并发送识别。
